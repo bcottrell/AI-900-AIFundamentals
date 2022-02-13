@@ -1,8 +1,4 @@
-
 Rheinmetall Argus Soldier System
-
- 
-
 
 American Rheinmetall Systems, LLC
 15 Morin St
@@ -11,7 +7,7 @@ https://www.rheinmetall-defence.com/en/rheinmetall_defence/index.php
 
 
 POC: Mike Cassidy
-   Tel: (912) -655-6451
+Tel: (912) -655-6451
 Email:  mike.cassisy@arsusa.com
  
 
