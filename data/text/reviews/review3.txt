@@ -1,5 +1,305 @@
-Good location and helpful staff, but on a busy road.
-The Lombard Hotel, San Francisco, USA
-8/16/2018
-We stayed here in August after reading reviews. We were very pleased with location, just behind Chestnut Street, a cosmopolitan and trendy area with plenty of restaurants to choose from. The
-Marina district was lovely to wander through, very interesting houses. Make sure to walk to the San Francisco Museum of Fine Arts and the Marina to get a good view of Golden Gate bridge and the city. On a bus route and easy to get into centre. Rooms were clean with plenty of room and staff were friendly and helpful. The only down side was the noise from Lombard Street so ask to have a room furthest away from traffic noise.
+Page 01
+RAMM Integrated Antenna Mast System 
+User Guide
+Number on diagram Description
+1 1 x Antenna Mast 
+2 1 X Top Collar (with Location Lugs)
+3 1 x Secondary Cuff (with Orange Rubber Inserts)
+4 3 x 7.5m Guy Ropes for Top Collar
+5 3 x 5.5m Guy Ropes for Secondary Cuff (with Orange Tag on Tidy)
+6 1 x End Cap
+7 Cable(s) (X1 for VHF or UHF) (X2 for Dual Band)
+ 9 x Pegs
+Components Overview
+1
+2
+3
+4 5
+Components Overview
+6
+7
+RAMM Integrated Antenna Mast System
+Extending Technology
+SCU-GG000080 / Issue 4 July 2015
+Page 02
+Safety Warnings, Cautions and Notes
+SCU-GG000080 / Issue 4 July 2015
+The following are the safety warnings and cautions relating to the RAMM products; single VHF, 
+single UHF and Dual VHF/UHF antenna mast systems:
+Warnings
+• Risk Of Electrocution: Do not erect the mast close to, or beneath, overhead power lines. 
+• Radhaz: A radhaz exclusion zone of 1m should be established around the base of the antenna when 
+in use.
+• Electric Storms: During electric storms when there is a threat of lightning strikes do not use the 
+mast, as the mast presents a conduction path and increased risk of lightning attachment. If possible, 
+and safe to do so, remove the RF feeder cable.
+• Manual Handling: The antenna mast kit weighs approximately 7kg, care should be taken when 
+handling it to prevent risk of injury. 
+• Manual Handling: When unrolling and rolling the mast, it should be placed such that if it slips and 
+begins to unroll it cannot impact with personnel or equipment.
+• Trip Hazard: The cables and guy ropes present a trip hazard, take care when locating, using, 
+assembling and disassembling the mast.
+• Cut Hazard: The guy pegs have a sharp end to them, care is to be taken to avoid the risk of injury.
+• Drop Hazard: Only erect the mast using the supplied guy ropes, collars and pegs. Failure to do this 
+could result in the mast collapsing and causing injuries.
+• Drop Hazard: The recommended maximum wind speed for the mast with the secondary cuff fitted 
+and properly erected as per these instructions is 60 mph. Operation beyond this is not advised as the 
+mast may fall causing injuries.
+• Only use the mast in the vertical axis.
+• Ensure there are no underground hazards prior to guy peg insertion.
+Cautions
+• The karabiners fitted to the RF connection cables should be clipped onto the strain relief loops fitted 
+on the mast before connecting RF plugs. This prevents accidental damage to the RAMM RF cable 
+plug should a pull force be applied to the coaxial cable 
+• The recommended maximum wind speed for the mast with the secondary cuff fitted and properly 
+erected as per these instructions is 60 mph. Operation beyond this is not advised as the mast may 
+fall causing injuries.
+• Do not use solvents to clean the product.
+• During operation, and once the mast is set up, keep a safe distance away in case of mast collapse. 
+Safe distance is defined as 10m from base.
+• Do not store items on top of the masts, either rolled or unrolled.
+• Do not allow the mast to bend.
+• Do not allow the mast to drop from the vertical onto hard surfaces, as this risks damage to it. If this 
+does occur, a thorough inspection of the mast and all ancillaries should be carried out, with any parts 
+suspected or known to have been damaged being replaced.
+Page 03
+Checks and Maintenance
+SCU-GG000080 / Issue 4 July 2015
+Pre Use Checks
+• Ensure all guy ropes are undamaged, free of fraying and not crushed.
+• Ensure RF cables are not kinked, cut or otherwise damaged.
+• Check RF connectors to ensure they are free of moisture, dirt and debris and that they are not 
+physically damaged.
+• Ensure the guy rope pegs are free of bends and major kinks.
+• Ensure the strain relief loops are intact and undamaged (see step 12 for a picture of this feature).
+• Ensure the collar and End Cap are undamaged.
+Whilst unrolling the mast, check for damage to it, any holes or excessive fraying observed.
+Post Use Checks
+• Ensure all guy ropes are undamaged, free of fraying and not crushed.
+• Ensure RF cables are not kinked, cut or otherwise damaged.
+• Check RF connectors to ensure they are free of moisture, dirt and debris and that they are not 
+physically damaged.
+• Ensure the mast is free of dirt and debris prior to rolling it up.
+Maintenance
+• All cables and guy ropes should be checked prior to deployment to ensure they are free from damage 
+and are clean. Damaged equipment should be replaced.
+• Check the base and collar for signs of damage or degradation, replace these if any are found.
+• The mast should be unwound and checked for damage and cleaned every 6 months. If the mast is 
+found to be damaged please contact Selex ES for further investigation.
+• All equipment should cleaned using a warm soapy solution and soft cloth. Do not use solvents to 
+clean the product.
+Page 04
+Description
+General Specification
+SCU-GG000080 / Issue 4 July 2015
+The RAMM (Rapid Action Mission Mast) is a combined mast and antenna(s). The unique feature is 
+the embedding of the antenna within the mast itself, and the deployment mechanism of the mast 
+in its quick use format of rolling and unrolling.
+Mast dimensions Rolled: 180mm by 250mm in diameter
+ Unrolled: 7m by 76mm in diameter
+Mast Weight 5kg nominal
+Kit Weight 7.4kg nominal
+Frequency VHF 30 to 108MHz
+ UHF 225 to 512 MHz
+VSWR VHF < 3.5 : 1
+ UHF < 3.5 : 1
+Maximum Power UHF 50W
+ VHF 25W
+Nominal impedance 50Ω
+Polarisation Linear vertical
+This specification is applicable to the following parts: 
+Dual V/UHF Antenna Part No 9R8-2068
+Single Band VHF Antenna (VHF aspects only) Part No 9R8-2066
+Single Band UHF Antenna (UHF aspects only) Part No 9R8-2067
+Mechanical
+Electrical
+Item Qty Weight Weights Weight Set Of Weight Weights Weight
+ Grams Lbs Kilos Grams Lbs Kilos
+Antenna Mast 1 4995 11.01 5.01 1 4995 11.01 5.01
+Top Collar 1 243 0.54 0.24 1 243 0.54 0.24
+Secondary Cuff 1 220 0.49 0.22 1 220 0.48 0.22
+7.5m Guy Rope 1 87 0.19 0.09 3 261 0.58 0.26
+5.5m Guy Rope 1 65 0.14 0.07 3 195 0.42 0.21
+End Cap 1 316 0.70 0.32 1 316 0.70 0.32
+Cable 1 258 0.57 0.26 1 258 0.57 0.26
+Peg 1 80 0.18 0.08 9 720 1.62 0.72
+Bag 1 400 0.88 0.40 1 400 0.88 0.40
+Weights
+Page 05
+Deployment Instructions – 2 person set-up
+1(1st person) Place mast 
+between feet. Turn the 
+open face of mast into 
+the direction of the wind. 
+Unwind the mast approx. 
+1m and hold in position.
+4 Identify the top collar locating holes above 
+the first antenna patch and approx. 2m 
+from the top of the mast.
+Identify the top collar – when open it will 
+have two lugs on the internal ring which will 
+fit into the locating holes.
+2 (2nd person) Place the top collar on the ground next to 
+the mast. Use the perlon hoops to gauge direction of 
+guy ropes. Unwind 7.5m guy ropes (no orange tag on 
+guy tidy) and peg in place (angle pegs) approx. 4m from 
+the centre of the mast. Ensure guys are slack and bring 
+the clip end towards the centre.
+3 (1st person) Elevate the mast vertically until the first 
+antenna patch is at head height.
+Continued on next page >
+SCU-GG000080 / Issue 4 July 2015
+Page 06
+Deployment Instructions Continued
+6 Attach the guy rope clips to the 
+perlon hoops on the collar.
+7 Unwind 5.5m guy ropes 
+(identified by an orange 
+tag) and peg (angle pegs) 
+in place approx. 3m from 
+the centre of the mast.
+5 Place the top collar on the mast and 
+secure. (Make sure the perlon hoops 
+are at the bottom).
+8 Raise the mast vertically until the second patch is at head 
+height. Fit the secondary cuff (identified by the orange 
+rubber patches on the inner ring) at the position shown 
+by the black line on the outer cover and close outer arms 
+with rubber toggle. Note – there are no locating lugs on 
+this collar, perlon hoops should be at the bottom.
+Continued on next page >
+9 Run the mast 
+up vertically 
+to full height. 
+Ensure that 
+the open side 
+of the mast 
+is facing into 
+the prevailing 
+wind.
+SCU-GG000080 / Issue 4 July 2015
+Page 07
+Deployment Instructions Continued
+The dual band mast has 2x cables. Attach these to the 
+connectors located 1.8m above the base of the mast.
+The single masts (VHF and UHF) have 1 x cable which 
+connects to the connector located 1.8m above ground 
+level. Note – always attach the metal karabiners before 
+connecting the cable. This prevents weight strain on 
+the connectors.
+Place the End Cap on the 
+base of the mast (this will 
+require two people. One 
+person to lift the mast and 
+the other to slide the End Cap 
+onto the end of the mast). 
+Secure the End Cap with 3 
+pegs. (Person holding mast 
+must continue holding mast 
+until guy ropes are secure).
+10
+12
+Tighten up both 
+sets of guy ropes 
+so the mast is 
+held firm and 
+vertically (use the 
+line-lock to ensure 
+guy ropes stay 
+locked in place).
+Mast system fully 
+deployed.
+11
+13
+SCU-GG000080 / Issue 4 July 2015
+Page 08
+Withdrawal Instructions
+1 To disconnect the cables begin by removing the 
+connectors, then the karabiner from the perlon hoops. 
+Weight is taken on the karabiner instead of the connectors.
+4 Remove all the secondary cuff guy ropes from the pegs. 
+Take control of one of the top collar guy ropes, unpeg, and 
+using the guy rope to control the descent gradually allow the 
+mast to descend horizontally to the ground in the opposite 
+direction of the guy rope being held (one person to guide the 
+mast and second person to guide with guy rope). Do not 
+allow the mast to topple uncontrolled during recovery.
+2 Loosen off the guys 
+slightly.
+5 Unclip all 6 guy ropes from the perlon 
+hoops and wind them up. Unclip the top 
+collar and the secondary cuff.
+6 Place the top of the mast against 
+something firm to prevent it slipping.
+3 Remove mast from 
+End Cap. Remove 
+pegs and move End 
+Cap to one side.
+Continued on next page >
+SCU-GG000080 / Issue 4 July 2015
+Page 09
+Withdrawal Instructions Continued
+7 Lift the bottom of the mast and roll it 
+by hand from the base of the mast. 
+Note – rolling up must be from the 
+base of the mast (there is a label which 
+indicates the bottom).
+8 Return all the components 
+to the bag.
+SCU-GG000080 / Issue 4 July 2015
+Page 10
+Product Components
+Description NSN Selex Part No
+7m 3”Tac VHF/UHF RAMM Multicam Mast Only 5985-99-975-6968 9R8-2068/01
+7m 3”Tac VHF/UHF RAMM Black Mast Only 5985-99-669-2328 9R8-2068/21
+7m 3”Tac VHF 30-108 RAMM Multicam Mast Only 5985-99-172-2274 9R8-2066/01
+7m 3”Tac VHF 30-108 RAMM Black Mast Only 5985-99-476-7057 9R8-2066/21
+7m 3”Tac UHF 225-512 RAMM Multicam Mast Only 5985-99-474-7984 9R8-2067/01
+7m 3”Tac UHF 225-512 RAMM Black Mast Only 5985-99-878-8970 9R8-2067/21
+Components
+SCU-GG000080 / Issue 4 July 2015
+Description NSN Selex Part No
+25cm Individual Steel Rock Pegs 9R8-2448/01
+2002 Set of 6 25cm Steel Rock Peg Green Top 4030-99-988-4340 9R8-1880/01
+3 x 5.5m RAMM Mast Guys Green - Secondary Cuff 9R8-2449/01
+4102 Set of 3 x 7.5m Mast Guys Green - Top Collar 4010-99-852-2636 9R8-1881/01
+Manual 7m 3” RAMM 7610-99-385-9966 9R8-1884/01
+Top Collar for 7m 3”RAMM 5985-99-391-8483 9R8-1878/01
+Secondary Cuff 9R8-2450/01
+1050 3” End Cap 5985-99-981-0444 9R8-1877/01
+Ancillaries Kit for 7m 3” RAMM containing items above 5985-99-844-5087 7R5-0793/01
+Mandatory Components
+Description NSN Selex Part No
+Black Large Bag 15”x12x11” 5985-99-154-1717 9R8-1882/14
+Black Medium Bag 13”x11x10” 5985-99-508-3269 9R8-1882/13
+Multicam Large Bag 15”x12x11” 5985-99-154-1715 9R8-1882/04
+Multicam Medium Bag 13”x11x10” 5985-99-709-1662 9R8-1882/03
+Optional Extras
+Continued on next page >
+Page 11
+Product Components Continued
+Description NSN Selex Part No
+Cable Assy BNC to TNC 5995-99-669-2336 9R6-0856/01
+3m Ferrite Cable BNC(m) to BNC(m) 5995-99-157-7917 9R6-0857/01
+Cable Assy BNC to N-TYPE 5995-99-669-2338 9R6-0858/01
+3m Ferrite Cable TNC(m) to TNC(m) 5995-99-568-6388 9R6-0859/01
+TNC(m) to N type(m) Ferrite cables 5995-99-586-4612 9R6-0861/01
+Cable Assy TNC to BNC 5995-99-885-1416 9R6-0860/01
+Cables
+Registered in England & Wales No. 8833973
+VAT Reg 181 483 204
+t: +44 (0)1252 393020 e: wp@rolatube.com
+www.rolatube.com
+www.flickr.com/photos/rolatubeexpeditionarysystems
+RolaTube Expeditionary Systems Ltd
+Room 1073, Building A8, Cody Technology Park 
+Farnborough GU14 0LX, UK.
+SCU-GG000080 / Issue 4 July 2015
+For further information please contact:
+David Atkins (Head of Integrated Antenna Solutions)
+e: david.atkins@selex-es.com t: +44(0)117 931 3556
+Selex ES Ltd
+Registered Office: Sigma House, Christopher Martin Road 
+Basildon, Essex SS14 3EL, UK.
+www.selex-es.com
+Registered in England & Wales No. 2426132
